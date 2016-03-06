@@ -1,2 +1,2 @@
-# CURSO_Jdbc
-Curso de JDBC en SistemasUNI con Gustavo Coronel
+# CURSO de java JDBC 
+Curso de JDBC en SistemasUNI con Gustavo Coronel.
